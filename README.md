@@ -5,5 +5,7 @@ This is nothing fancy, simply edit or modify as desired please keep the footer l
 Preview: http://twitch.rdash.org
 
 ## Contact Information
+
 Twitter: http://twitter.com/TheRDash
+
 Github: http://github.com/Rdash21
